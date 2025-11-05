@@ -21,3 +21,6 @@ use git add <file> again to resubmit new changes
 git commit -m "Add a descriptive message of what changes have been added" - commit staging to main
 
 
+git remote add origin https://github.com/Jkerrison/VersionControl.git - this will conect directory to a GitHub repo, does not need to have the same name, I just have here
+
+
