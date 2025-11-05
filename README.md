@@ -11,3 +11,13 @@ Here's out todo list:
 
 
 git staus - use this to look at current status of repo
+
+git add <file> - put file and its new changes in staging
+
+git status
+git diff - show what changes have been made to the file since it was in staging
+use git add <file> again to resubmit new changes
+
+git commit -m "Add a descriptive message of what changes have been added" - commit staging to main
+
+
