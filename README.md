@@ -6,5 +6,5 @@ Tutorial workshop on how to use Git
 Here's out todo list:
 
  - [x] Create a new file
- - [ ] Make our first commit
+ - [x] Make our first commit
  - [ ] Fix this tpyo
